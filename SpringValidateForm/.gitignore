@@ -3,3 +3,4 @@
 /build
 /.gradletasknamecache
 .idea/
+local.properties
