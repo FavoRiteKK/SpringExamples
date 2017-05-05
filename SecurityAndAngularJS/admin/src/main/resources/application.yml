@@ -1,0 +1,11 @@
+logging:
+  level:
+    org.springframework.security: DEBUG
+security:
+  user:
+    role: USER,ADMIN
+spring:
+  session:
+    store-type: redis
+server:
+  port: 8082
